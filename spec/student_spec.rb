@@ -102,7 +102,7 @@ describe Student do
   #       expect(new_student.id).to eq(1)
   #     end
   #   end
-  # end
+   end
   
 
   # describe '.find_by_name' do 
